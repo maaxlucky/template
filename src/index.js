@@ -1,3 +1,3 @@
-const arr = ["arr"];
+"use strict";
 
-console.log(arr);
+import "./style/style.css";
